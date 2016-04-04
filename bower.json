@@ -1,0 +1,19 @@
+{
+  "name": "project-tre",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "nroobz"
+  ],
+  "license": "mit",
+  "homepage": "https://github.com/Nroobz/project-tre",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
