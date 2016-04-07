@@ -24,7 +24,7 @@ gulp.task('jade', function() {
         .pipe(jade({
             locals: YOUR_LOCALS
         }))
-        .pipe(gulp.dest('./build/'))
+        .pipe(gulp.dest('./build/css'))
 });
 
 
